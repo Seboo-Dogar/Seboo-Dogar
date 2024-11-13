@@ -21,7 +21,7 @@
  
  |<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="MySQL" width="30px" src="/Assets/mysql.png"/>|
  |--|--|--|--|
- 
+ ---
 <!---
 Seboo-Dogar/Seboo-Dogar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
