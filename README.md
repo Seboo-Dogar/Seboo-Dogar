@@ -19,7 +19,7 @@
  
  **Tools**
  
- |<img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
+ |<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="MySQL" width="30px" src="/Assets/mysql.png"/>|
  |--|--|--|--|
  
 <!---
