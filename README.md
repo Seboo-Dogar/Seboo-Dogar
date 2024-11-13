@@ -14,7 +14,12 @@
  
  **Frameworks & Libraries**
  
- <img alt="React JS" width="30px" src="/Assets/react.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap.png"/>|<img alt="Next JS" width="30px" src="/Assets/next.png"/>
+ |<img alt="React JS" width="30px" src="/Assets/react.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap.png"/>|<img alt="Next JS" width="30px" src="/Assets/next.png"/>|
+ |--|--|--|--|
+ 
+ **Tools**
+ 
+ |<img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
  |--|--|--|--|
  
 <!---
