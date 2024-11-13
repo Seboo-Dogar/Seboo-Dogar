@@ -9,12 +9,12 @@
 
 **Languages**
 
-<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="Java" width="30px" src="/Assets/java.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>
+<img alt="C" width="30px" src="/Assets/c.png"/>|<img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="JavaScript" width="30px" src="/Assets/js.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="SQL" width="30px" src="/Assets/sql.png"/>
  |--|--|--|--|--|--|--|
  
  **Frameworks & Libraries**
  
- <img alt="React JS" width="30px" src="/Assets/react.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bootstrap.png"/>
+ <img alt="React JS" width="30px" src="/Assets/react.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap.png"/>|<img alt="Next JS" width="30px" src="/Assets/next.png"/>
  |--|--|--|--|
  
 <!---
