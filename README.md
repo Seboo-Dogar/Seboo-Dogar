@@ -14,7 +14,7 @@
  
  **Frameworks & Libraries**
  
- <img alt="nextjs" width="30px" src="/Assets/next.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bulma.svg"/>
+ <img alt="React JS" width="30px" src="/Assets/react.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bootstrap.png>
  |--|--|--|--|
  
 <!---
