@@ -9,7 +9,7 @@
 
 **Languages**
 
-<img alt="C" width="30px" src="/Assets/c.png"/>|<img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="JavaScript" width="30px" src="/Assets/js.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="SQL" width="30px" src="/Assets/sql.png"/>
+|<img alt="C" width="30px" src="/Assets/c.png"/>|<img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="JavaScript" width="30px" src="/Assets/js.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="SQL" width="30px" src="/Assets/sql.png"/>|
  |--|--|--|--|--|--|--|
  
  **Frameworks & Libraries**
