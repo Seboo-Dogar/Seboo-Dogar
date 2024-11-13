@@ -26,7 +26,7 @@
 
  **Connect with Me**
 ---
-[<img align="left" alt="Instagram - Seboo Dogar" width="25px" src="/Assets/instagram.png" />](https://www.instagram.com/SebooDogar) [<img align="left" alt="LinkedIn - Seboo Dogar" width="25px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/seboodogar) [<img align="left" alt="Email -Rohan Das" width="25px" src="/Assets/gmail.png" />](mailto:seboodogar@gmail.com)
+[<img align="left" alt="Instagram - Seboo Dogar" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/SebooDogar) [<img align="left" alt="LinkedIn - Seboo Dogar" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/seboodogar) [<img align="left" alt="Email -Rohan Das" width="25px" src="/Assets/gmail.png" />](mailto:seboodogar@gmail.com)
 
 <!---
 Seboo-Dogar/Seboo-Dogar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
