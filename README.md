@@ -4,7 +4,9 @@
 - 👀 I’m interested in #Programming 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on web development projects or coding challenges related to programming.
-- 📫 You can reach me through direct messages on this platform or through my email address: seboodogar@gmail.com.
+- 📫 You can reach me through:  
+   - **Email**: [seboodogar@gmail.com](mailto:seboodogar@gmail.com)  
+   - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sohaib-aslam-dev/)
 ---
 
 ## My Skills 
