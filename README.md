@@ -1,4 +1,4 @@
-<h1> Hi, I’m <a href="https://github.com/Seboo-Dogar" target="_blank">@Seboo-Dogar </a> 🙋🏽‍♂️</h1> 
+<h1> Hi, I’m <a href="https://github.com/Seboo-Dogar" target="_blank">@Sohaib-Aslam </a> 🙋🏽‍♂️</h1> 
 
 - 👋 Hi, I’m Sohaib Aslam
 - 👀 I’m interested in #Programming 
