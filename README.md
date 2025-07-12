@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Sohaib Aslam
 - 👀 I’m interested in #Programming 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on web development projects or coding challenges related to programming.
 - 📫 You can reach me through:  
    - **Email**: [seboodogar@gmail.com](mailto:seboodogar@gmail.com)  
