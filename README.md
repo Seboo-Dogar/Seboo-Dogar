@@ -10,10 +10,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN Stack**
 - 🔭 Currently working on full-stack projects with **React**, **Node.js**, and **MongoDB**
 - 🌱 Always exploring new tools, frameworks, and best practices
 - 🤝 Open to collaborating on real-world projects, open-source contributions, and coding challenges
-- 📫 Reach me via:
-  - **Email**: [seboodogar@gmail.com](mailto:seboodogar@gmail.com)
-  - **LinkedIn**: [Sohaib Aslam](https://www.linkedin.com/in/sohaib-aslam-dev/)
-  - **WhatsApp**: [Click to chat](https://wa.me/923080946477)
+
 
 ---
 
